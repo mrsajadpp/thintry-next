@@ -29,13 +29,13 @@
 .centre-section .blog-card .card-title{
     font-size: .875rem;
     margin: 15px;
-    color: rgb(var(--gray-1k));
+    color: rgb(13, 13, 13);
     font-weight: 600;
 }
 
 .centre-section .blog-card p{
     font-size: .75rem;
-    color: #555;
+    color: rgb(106, 115, 125);
     font-weight: 400;
     margin: 0 15px 15px;
 }

@@ -41,7 +41,7 @@ function Read() {
                 {blogPosts.map((post) => (
                     <Link href="/" key={post.id} className='blog-card'>
                         <img src={post.image} alt={post.title} />
-                        <h3>{post.title}</h3>
+                        <p className="card-title">{post.title}</p>
                         <p>{post.desciption}</p>
                     </Link>
                 ))}

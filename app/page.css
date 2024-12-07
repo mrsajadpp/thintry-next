@@ -26,14 +26,17 @@
     border-radius: 1rem;
 }
 
-.centre-section .blog-card h3{
-    font-size: 1rem;
+.centre-section .blog-card .card-title{
+    font-size: .875rem;
     margin: 15px;
+    color: rgb(var(--gray-1k));
+    font-weight: 600;
 }
 
 .centre-section .blog-card p{
-    font-size: 1rem;
+    font-size: .75rem;
     color: #555;
+    font-weight: 400;
     margin: 0 15px 15px;
 }
 

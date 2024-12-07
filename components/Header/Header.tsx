@@ -36,12 +36,8 @@ function Header() {
                 <img src="/img/icons/pencil.svg" alt="Img" />
                 New Article
             </button>
-            {/* <button className='create-article'>
-                    <img src="/assets/images/handwriting2.jpeg" alt="draw-image" />
-                    <h3>Hey, Do you Write?</h3>
-                    <p>Now, Publish your Article from your Profile</p>
-                    <h4>Create Article <img src="/img/icons/arrow-right.svg" alt="" /></h4>
-                </button> */}
+            <button className='create-article'>
+            </button>
         </div>
     )
 }
